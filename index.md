@@ -22,7 +22,7 @@ Syntax highlighted code block
 2. Great teachers 
 3. Great mentors 
 4. Nice classroom 
-5. Good AC 
+5. Good AC in class
 
 **Bold** and _Italic_ and `Code` text
 
